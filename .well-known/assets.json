@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.companyname.xamarinoauthtest",
+    "sha256_cert_fingerprints":
+    ["16:7E:F1:D1:56:33:06:50:D8:AA:B9:95:F2:43:22:55:16:D0:83:42:1E:1D:B2:A8:8A:04:57:32:3F:CF:44:E5"]
+  }
+}]
+
