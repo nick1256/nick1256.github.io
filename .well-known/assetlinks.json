@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.cezannehr.mobile.cico.android",,
+    "package_name": "com.cezannehr.mobile.cico.android",
     "sha256_cert_fingerprints":
     ["C8:EB:F9:8F:D3:51:B1:7D:D0:1A:89:51:6F:0F:23:F7:49:C0:2A:B1:15:14:24:2D:10:A7:D2:04:11:8E:31:EB"]
   }
